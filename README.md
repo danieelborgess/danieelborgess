@@ -39,14 +39,14 @@
 ### 📈 Minhas Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=borgez777&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=cccccc&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=borgez777&layout=compact&bg_color=000000&title_color=ffffff&text_color=cccccc&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=danieelborgees&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=cccccc&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieelborgess&layout=compact&bg_color=000000&title_color=ffffff&text_color=cccccc&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=borgez777&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=cccccc&sideLabels=cccccc&dates=cccccc&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=danieelborgess&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=cccccc&sideLabels=cccccc&dates=cccccc&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=borgez777&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danieelborgess&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&hide_border=true" alt="Activity Graph" />
 </p>
