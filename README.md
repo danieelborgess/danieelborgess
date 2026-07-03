@@ -39,7 +39,7 @@
 ### 📈 Minhas Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danieelborgees&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=cccccc&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=danieelborgess&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=cccccc&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieelborgess&layout=compact&bg_color=000000&title_color=ffffff&text_color=cccccc&hide_border=true" alt="Top Languages" />
 </p>
 
